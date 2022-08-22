@@ -1,12 +1,12 @@
-package com.zee.aopdemo;
+package com.zee.aopdemo.dao;
 
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class Dao1 {
+public class Dao2 {
 
     public String retrieveSomething() {
-        return "Dao1";
+        return "Dao2";
     }
 
 }

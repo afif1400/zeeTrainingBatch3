@@ -6,6 +6,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import com.zee.aopdemo.service.Business1;
+import com.zee.aopdemo.service.Business2;
+
 @SpringBootTest
 class DemoApplicationTests {
 

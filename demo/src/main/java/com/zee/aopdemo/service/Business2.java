@@ -1,7 +1,9 @@
-package com.zee.aopdemo;
+package com.zee.aopdemo.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.zee.aopdemo.dao.Dao2;
 
 @Service
 public class Business2 {
